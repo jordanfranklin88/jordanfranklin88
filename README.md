@@ -24,32 +24,26 @@
  ##          
 
  <div>
-  <!-- YouTube -->
   <a href="https://youtube.com/@jordansouza0?si=eYryFX7Sd_oWEsCv" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <!-- Instagram -->
-  <a href="URL_DO_SEU_INSTAGRAM" target="_blank">
+  <a href="https://www.instagram.com/jordanfranklin88?igsh=aWUyNm5oZHlzYnF0&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <!-- Twitch -->
   <a href="URL_DA_SUA_TWITCH" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>
 
-  <!-- Discord -->
-  <a href="LINK_DO_SEU_DISCORD" target="_blank">
+  <a href="499735479848140812" target="_blank">
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 
-  <!-- Gmail / Email -->
-  <a href="mailto:SEU_EMAIL@exemplo.com">
+  <a href="jordanprofissional0@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
-  <!-- LinkedIn -->
   <a href="URL_DO_SEU_LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
