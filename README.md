@@ -55,5 +55,8 @@
   </a>
 </div>
 
-  <!-- Animação da Cobrinha (Snake) -->
-![Snake animation](https://github.com/jordanfranklin88/jordanfranklin88/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jordanfranklin88/jordanfranklin88/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jordanfranklin88/jordanfranklin88/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jordanfranklin88/jordanfranklin88/output/github-contribution-grid-snake.svg">
+</picture>
