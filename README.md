@@ -1,4 +1,4 @@
-## Olá! Eu sou Jordan Franklin🙋🏽‍♂️👾
+## Olá! Eu sou Jordan Franklin🙋🏻‍♂️👾
 <div>
   <a href="https://beacons.ai/jordanfranklin88">
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jordanfranklin88&show_icons=true&include_all_commits=true&theme=aura"/>
