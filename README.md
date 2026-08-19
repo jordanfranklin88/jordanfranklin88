@@ -53,6 +53,21 @@
   </a>
 </div>
 
+##
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="230" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://i.giphy.com/media/4eTuzu8xIEqdDfPu9J/giphy.gif" height="230" />
+      </td>
+    </tr>
+  </table>
+</div>
+
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jordanfranklin88/jordanfranklin88/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jordanfranklin88/jordanfranklin88/output/github-contribution-grid-snake.svg">
