@@ -1,8 +1,10 @@
 ## Olá! Eu sou Jordan Franklin🙋🏻‍♂️👾
-<div>
+<div align="center">
   <a href="https://beacons.ai/jordanfranklin88">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=jordanfranklin88&show_icons=true&include_all_commits=true&theme=aura"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=jordanfranklin88&layout=compact&langs_count=4&theme=aura"/>
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=jordanfranklin88&show_icons=true&include_all_commits=true&theme=aura" />
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=jordanfranklin88&layout=compact&langs_count=4&theme=aura" />
+  </a>
+  <img height="180" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" />
 </div>
 
 
