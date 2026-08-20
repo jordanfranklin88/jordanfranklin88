@@ -1,13 +1,21 @@
 ## Olá! Eu sou Jordan Franklin🙋🏻‍♂️👾
-<div align="center">
-  <a href="https://beacons.ai/jordanfranklin88">
-    <img height="150" src="https://github-stats-extended.vercel.app/api?username=jordanfranklin88&show_icons=true&include_all_commits=true&theme=aura" />
-  </a>
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" />
-  <a href="https://beacons.ai/jordanfranklin88">
-    <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs?username=jordanfranklin88&layout=compact&langs_count=4&theme=aura" />
-  </a>
-</div>
+<table align="center" border="0">
+  <tr>
+    <td align="center" valign="middle">
+      <a href="https://beacons.ai/jordanfranklin88">
+        <img height="135" src="https://github-stats-extended.vercel.app/api?username=jordanfranklin88&show_icons=true&include_all_commits=true&theme=aura" />
+      </a>
+    </td>
+    <td align="center" valign="middle">
+      <img height="135" src="https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif" />
+    </td>
+    <td align="center" valign="middle">
+      <a href="https://beacons.ai/jordanfranklin88">
+        <img height="135" src="https://github-stats-extended.vercel.app/api/top-langs?username=jordanfranklin88&layout=compact&langs_count=4&theme=aura" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 <h2 align="left">Tech Stack📱</h2>
