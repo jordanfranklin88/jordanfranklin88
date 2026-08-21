@@ -1,4 +1,4 @@
-## Olá! Eu sou Jordan Franklin🙋🏻‍♂️👾
+##Jordan Franklin🙋🏻‍♂️👾
 <table align="center" border="0">
   <tr>
     <td align="center" valign="middle">
