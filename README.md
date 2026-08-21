@@ -3,7 +3,7 @@
   <tr>
     <td align="center" valign="middle">
       <a href="https://beacons.ai/jordanfranklin88">
-        <img height="135" src="https://github-stats-extended.vercel.app/api?username=jordanfranklin88&show_icons=true&include_all_commits=true&theme=aura" />
+        <img height="150" src="https://github-stats-extended.vercel.app/api?username=jordanfranklin88&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,reviews,stars&theme=aura" />
       </a>
     </td>
     <td align="center" valign="middle">
@@ -11,7 +11,7 @@
     </td>
     <td align="center" valign="middle">
       <a href="https://beacons.ai/jordanfranklin88">
-        <img height="135" src="https://github-stats-extended.vercel.app/api/top-langs?username=jordanfranklin88&layout=compact&langs_count=4&theme=aura" />
+        <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs?username=jordanfranklin88&layout=compact&langs_count=6&theme=aura" />
       </a>
     </td>
   </tr>
