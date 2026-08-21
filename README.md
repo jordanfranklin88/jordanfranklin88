@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-### Tech Stack 📱
+### Tech Stack💻
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 <p align="left">
   <img alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> &nbsp;
